@@ -10,5 +10,7 @@
 
 Output:
 I am a RedHatter
+
 Length = 16
+
 rettaHdeR a ma I
