@@ -1,6 +1,6 @@
 FROM alpine
 
-COPY script.sh/
+COPY script.sh /
 
 RUN chmod +x /script.sh
 
